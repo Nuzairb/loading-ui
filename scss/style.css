@@ -1,5 +1,9 @@
+body, html {
+  font-family: 'Noto Sans SC', sans-serif;
+}
+
 .card {
-  margin: 30px;
+  margin: 30px auto;
   width: 327px;
   height: 389px;
   background-color: white;
