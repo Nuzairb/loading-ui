@@ -73,4 +73,33 @@
   text-align: center;
   color: #fff;
 }
+
+.card-footer {
+  height: 92px;
+  background-color: #e65645;
+  border-top: 2px solid #e57064;
+}
+
+.card-footer_item {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+  padding: 16px 0;
+  width: 32%;
+  height: 100%;
+  border-right: 2px solid #e57064;
+  text-align: center;
+}
+
+.card-footer_item:last-of-type {
+  border-right: 0;
+}
+
+.card-footer_item p {
+  margin: 9px 0;
+  color: #fff;
+  font-weight: 18px;
+  font-weight: 300;
+  line-height: 19px;
+}
 /*# sourceMappingURL=style.css.map */
