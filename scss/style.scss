@@ -1,6 +1,8 @@
+/*Basic Styles*/ 
 body,html {
     font-family: 'Noto Sans SC', sans-serif;
 }
+/*Card Styles*/ 
 .card {
     margin: 30px auto;
     width: 327px;
@@ -68,7 +70,7 @@ body,html {
   text-align:center;
   color: #fff;
 }
-
+/*Card footer Styles*/ 
 .card-footer {
     height: 92px;
     background-color: #e65645;
